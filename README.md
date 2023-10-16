@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sachin,<br>A passtionate Software Developer from Banglore, India<br><br>Experiences I have 1+ Years of experience in Software Development.<br>Successfully handling :<br> -Development and maintenance of Web based application using ASP.NET MVC, Web API, React.<br> -Develop and Debug consumption of REST APIs for troubleshooting and issue solving using tools like POSTMAN. <br>-Dealing with Stored Procedures, Joins, Views, Functions, Triggers in Databases using PostgreSQL and SQL with the help of ORM Frameworks (Entity Framework).</h2>
+<h2 align="left">Hi 👋! My name is Sachin,<br>A passtionate Software Developer from Banglore, India<br><br>I have 1+ Years of experience in Software Development.<br>Successfully handling :<br> -Development and maintenance of Web based application using ASP.NET MVC, Web API, React.<br> -Develop and Debug consumption of REST APIs for troubleshooting and issue solving using tools like POSTMAN. <br>-Dealing with Stored Procedures, Joins, Views, Functions, Triggers in Databases using PostgreSQL and SQL with the help of ORM Frameworks (Entity Framework).</h2>
 
 ###
 
