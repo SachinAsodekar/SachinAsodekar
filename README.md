@@ -1,28 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate Software Developer currently in Banglore, Working on Developing and Maintaining of reliable and scalable software solutions by investigating systems flow, data usage and work processes.</h3>
+<h2 align="left">Hi 👋! My name is Sachin,<br>A passtionate Software Developer from Banglore, India<br><br>Experiences I have 1+ Years of experience in Software Development.<br>Successfully handling :<br> -Development and maintenance of Web based application using ASP.NET MVC, Web API, React.<br> -Develop and Debug consumption of REST APIs for troubleshooting and issue solving using tools like POSTMAN. <br>-Dealing with Stored Procedures, Joins, Views, Functions, Triggers in Databases using PostgreSQL and SQL with the help of ORM Frameworks (Entity Framework).</h2>
 
-- 📚 I’m currently learning **Being the strong hold on backend, Currently working on my frontEnd Skills to develop user interfaces with React.**
+###
 
-- 💻I’m looking to collaborate on **Scalable software products that make bussiness impact, wether it's creating interactive frontEnd with OR efficient backEnd APIs with the support of RDBMS. Consider me inn !**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinAsodekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 💡 Ask me about **ASP.NET, WEB API, React.js, Java**
+###
 
-- 📫 How to reach me **Email : asodekar16@gmail.com LinkedIn : https://www.linkedin.com/in/sachin-asodekar-1303841b5**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
 
-- 📄 Know about my experiences 
-I have 1+ Years of experience in Software Development, handling responsibilties like 
-  -Development and maintenance of Web based application using ASP.NET MVC, Web API, React.
-  -Develop and Debug consumption of REST APIs for troubleshooting and issue solving using tools like POSTMAN. 
-  -Dealing with Stored Procedures, Joins, Views, Functions, Triggers in Databases using PostgreSQL and SQL with the help of ORM Frameworks (Entity Framework).        -Actively participating in Code Reviews using version control systems like TFS.
-  -Bug Fixing and Issue Tracking with Agile Methodology development using work flow management tools like JIRA
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-asodekar-1303841b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-asodekar-1303841b5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mrstark0516/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mrstark0516/" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="asodekar16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sachin-asodekar-1303841b5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinasodekar&show_icons=true&locale=en&layout=compact" alt="sachinasodekar" /></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SachinAsodekar/SachinAsodekar/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477803s3ce8p2nbh05oi5htvb9e7exe2gtq9rccik1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
